@@ -17,6 +17,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
+  "private": "false",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "react",
     "ui"
